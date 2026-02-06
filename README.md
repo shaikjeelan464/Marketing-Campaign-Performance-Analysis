@@ -76,7 +76,7 @@ It demonstrates how **data analytics directly supports business growth**.
 ---
 
 ## 📸 Dashboard Preview
-![Marketing Campaign Analysis Dashboard](Snapshot of Marketing Campaign Analysis.png)
+![Marketing Campaign Analysis Dashboard](https://github.com/shaikjeelan464/Marketing-Campaign-Analysis/blob/main/Snapshot%20of%20Marketing%20Campaign%20Analysis.png)
 
 ---
 
