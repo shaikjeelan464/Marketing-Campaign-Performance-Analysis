@@ -68,6 +68,11 @@ This dashboard helps organizations:
 
 It demonstrates how **data analytics directly supports business growth**.
 
+
+## 👤 Author
+**Shaik Mohammad Jeelan**  
+📊 Aspiring Data Analyst  
+🛠 Power BI | SQL | Python | Data Visualization  
 ---
 
 ## 📸 Dashboard Preview
